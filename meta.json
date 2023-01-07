@@ -1,0 +1,23 @@
+{
+    "name": "Jarvis - The DIY robot",
+    "entries": [
+        {
+            "path": "book:///c_0",
+            "type": "Chapter"
+        },
+        {
+            "path": "book:///c_2",
+            "type": "Chapter"
+        },
+        {
+            "path": "book:///c_3",
+            "type": "Chapter"
+        },
+        {
+            "path": "book:///c_5",
+            "type": "Chapter"
+        }
+    ],
+    "cnt": 6,
+    "meta": true
+}

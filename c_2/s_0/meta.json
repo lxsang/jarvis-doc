@@ -1,0 +1,23 @@
+{
+    "name": "Software & development tools installing",
+    "entries": [
+        {
+            "path": "book:///c_2/s_0/f_0.md",
+            "type": "File"
+        },
+        {
+            "path": "book:///c_2/s_0/f_1.md",
+            "type": "File"
+        },
+        {
+            "path": "book:///c_2/s_0/f_2.md",
+            "type": "File"
+        },
+        {
+            "path": "book:///c_2/s_0/f_4.md",
+            "type": "File"
+        }
+    ],
+    "cnt": 5,
+    "meta": true
+}

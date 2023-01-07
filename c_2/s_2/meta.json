@@ -1,0 +1,23 @@
+{
+    "name": "Arduino Firmware",
+    "entries": [
+        {
+            "path": "book:///c_2/s_2/f_0.md",
+            "type": "File"
+        },
+        {
+            "path": "book:///c_2/s_2/f_1.md",
+            "type": "File"
+        },
+        {
+            "path": "book:///c_2/s_2/f_3.md",
+            "type": "File"
+        },
+        {
+            "path": "book:///c_2/s_2/f_2.md",
+            "type": "File"
+        }
+    ],
+    "cnt": 4,
+    "meta": true
+}
